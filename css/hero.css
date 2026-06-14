@@ -1,0 +1,15 @@
+#hero {
+  background-color: #2e2f42;
+}
+
+#hero .moto {
+  color: #ffffff;
+  text-align: center;
+}
+
+#hero button.order-btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  width: 159px;
+  height: 56px;
+}

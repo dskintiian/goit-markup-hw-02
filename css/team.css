@@ -1,0 +1,20 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team h2 {
+  text-align: center;
+}
+
+#team ul.team-members {
+  list-style-type: none;
+}
+
+#team ul.team-members li {
+  background-color: #ffffff;
+}
+
+#team ul.team-members li p,
+#team ul.team-members li h3 {
+  text-align: center;
+}

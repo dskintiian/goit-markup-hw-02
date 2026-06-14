@@ -1,0 +1,45 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2%;
+  background-color: #ffffff;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 56px;
+  font-weight: bold;
+  line-height: 1.0714;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.1111;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+a {
+  font-size: 12px;
+  line-height: 1.3333;
+  letter-spacing: 4%;
+  text-decoration: underline;
+}
+
+a.logo {
+  font-family: "Raleway", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.3333;
+  letter-spacing: 3%;
+}
+
+a.logo .logo-prefix {
+  color: #4d5ae5;
+}
