@@ -1,7 +1,8 @@
 body {
+  color: #434455;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   background-color: #ffffff;
   line-height: 1.5;
 }
@@ -20,12 +21,17 @@ h2 {
 
 h3 {
   font-size: 20px;
+  font-weight: 500;
+}
+
+ul {
+  list-style: none;
 }
 
 a {
   font-size: 12px;
   line-height: 1.3333;
-  letter-spacing: 4%;
+  letter-spacing: 0.04em;
   text-decoration: underline;
 }
 
@@ -37,9 +43,25 @@ a.logo {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.3333;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
 }
 
 a.logo .logo-prefix {
   color: #4d5ae5;
+}
+
+.center {
+  text-align: center;
+}
+
+.midnight {
+  color: #2e2f42;
+}
+
+.bg-deep-blue {
+  background-color: #2e2f42;
+}
+
+.blue-white {
+  color: #fff;
 }
